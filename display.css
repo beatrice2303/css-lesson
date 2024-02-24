@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    background-color: whitesmoke;
+    
+    
+}
+div.quote{
+    background-color: rgb(193, 218, 224); 
+    border-radius:5px;
+    margin: 30px 10px;
+    padding: 10px 15px 5px ;
+    box-shadow: inherit;
+    }
+div.quote2{
+     border-radius:5px; 
+     background-color: rgb(193, 218, 224);
+     margin: 30px 10px;
+     display: flex;
+     padding:2px 3px 5px;
+     box-shadow: inset ;
+}
+
+div.quote3{
+    border-radius:5px;
+    padding:10px 15px 5px; 
+    background-color: rgb(193, 218, 224);
+    margin: 30px 10px;
+    
+}
+
+
+
+    
+
+
+
+
+

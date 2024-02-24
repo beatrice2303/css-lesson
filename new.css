@@ -1,0 +1,57 @@
+body{
+    color: blueviolet;
+    
+    flex-wrap:grid;
+    width: 50%;
+    height:auto;
+    padding: 9px;
+}
+  
+ .both{
+    flex-direction: column;
+ }  
+
+    
+
+
+
+
+    
+
+h3,p{
+    margin: auto;
+    padding: 9px;
+
+
+
+}
+.team-profile{  
+text-align: center;
+padding: 15px;
+width: 50%;
+height:auto;
+
+
+}
+.team-name{
+margin: 15px 0 5px;
+}
+.team-role{
+   font-size: 0.9em;
+   color: aqua;
+   }
+.team.img{
+    width: 50%;
+    height:auto;
+    padding: 9px;
+    display: flex;
+
+}
+
+ 
+.container{
+    margin: 60px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

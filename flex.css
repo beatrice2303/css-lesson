@@ -1,0 +1,59 @@
+.logos{
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 150%;
+   
+    
+   
+}
+.div1{
+    width: auto;
+    height: 150%;
+    padding: 50px;
+    flex-direction: column;
+    
+    
+
+.All{
+    
+}
+}
+.both{
+    flex-direction: column;
+
+}
+.both3{
+    flex-direction: column;
+}
+.div2{
+    width: auto;
+    height: 150%;
+    padding: 50px;
+    flex-direction: column;
+    
+    
+
+
+}
+
+
+.div3{
+    width: auto;
+    height: 150%;
+    padding: 50px;
+    flex-direction: row;
+   
+    
+
+
+}
+.div4{
+    width: auto;
+    height: 150%;
+    padding: 50px;
+    flex-direction: row;
+     
+
+
+}

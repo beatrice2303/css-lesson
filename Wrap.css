@@ -1,0 +1,17 @@
+.menu{
+   background-color: white;
+   box-shadow: 10px 10px 46px -17px rgba(23,23, 23, 0.5);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.div1,.div2,.div3{
+    border-radius: 8px;
+    margin: 5px;
+    background-color: rgb(22, 206, 238);
+    padding: 5px;
+
+}
+
+
